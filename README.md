@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 
-
-
-I’m currently working on web [📰](https://emojipedia.org/newspaper/) and Data visulization [📈](https://emojipedia.org/chart-increasing/)
-
-
+I’m currently working on Analytic works [📰](https://emojipedia.org/newspaper/) and Data  [📈](https://emojipedia.org/chart-increasing/)
 
 ```text
 💬 Languages: 
-JavaScript             
 Python
+JavaScript
+SQL
+Java
+
 
 🏗️ Frameworks:
 Flask
+Airflow
 React.js/ Next.js
 
 ```
