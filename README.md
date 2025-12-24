@@ -1,7 +1,7 @@
 Hi there, I'm [Rui SHANG][website] 👋
 
 
-I’m currently working on Analytic works [📰](https://emojipedia.org/newspaper/)Machine Learning and Data  [📈](https://emojipedia.org/chart-increasing/)
+I’m currently working as Systems Librarian at Westlake University(Hangzhou), hovering among LSP, Analytics [📰](https://emojipedia.org/newspaper/) and Machine Learning  [📈](https://emojipedia.org/chart-increasing/)
 
 #### Connect with me:
 
